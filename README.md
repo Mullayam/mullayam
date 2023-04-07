@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **SocialLite,YouPlay,MomentApp**
 
-- 🌱 I’m currently learning **BackboneJs,NextJs,React-Native,ElectronJs,WebPack,Typescript**
+- 🌱 I’m currently learning **BackboneJs,NextJs,React-Native,Typescript**
 
 - 👯 I’m looking to collaborate on **SocialLite,YouPlay,**
 
