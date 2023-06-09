@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mullayam" alt="mullayam" /></a> </p>
 
-- 🔭 I’m currently working on **Happift,MomentApp**
+- 🔭 I’m currently working on **SPACE,MomentApp**
 
 - 🌱 I’m currently learning **NextJs,React-Native,Typescript**
 
-- 👯 I’m looking to collaborate on **Happift**
+- 👯 I’m looking to collaborate on **SPACE**
 
 - 🤝 I’m looking for help with **MomentApp**
 
