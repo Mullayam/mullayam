@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mullayam" alt="mullayam" /></a> </p>
 
-- 🔭 I’m currently working on **SPACE,MomentApp**
+- 🔭 I’m currently working on **SPACE,Jobcy**
 
-- 🌱 I’m currently learning **NextJs,React-Native,Typescript**
+- 🌱 I’m currently learning **NestJs,RabbitMQ,TypeORM**
 
 - 👯 I’m looking to collaborate on **SPACE**
 
-- 🤝 I’m looking for help with **MomentApp**
+- 🤝 I’m looking for help with **Microservices**
 
-- 👨‍💻 All of my projects are available at [me.enjoys.in](me.enjoys.in)
+- 👨‍💻 All of my projects are available at [me.enjoys.in](https://me.enjoys.in)
 
 - 📫 How to reach me **mullayam06@outlook.com**
 
-- 📄 Know about my experiences [me.enjoys.in/MyResume.pdf](me.enjoys.in/MyResume.pdf)
+- 📄 Know about my experiences [me.enjoys.in/MyResume.pdf](https://me.enjoys.in/MyResume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
