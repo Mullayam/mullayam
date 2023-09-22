@@ -1,18 +1,18 @@
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
-<h1 align="center">Hi 👋, I'm Mulayam</h1>
+<h1 align="center">Hi 👋, I'm Mullayam</h1>
 <h3 align="center">Backend Devloper | Working With Models</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mullayam&label=Profile%20views&color=0e75b6&style=flat" alt="mullayam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mullayam" alt="mullayam" /></a> </p>
 
-- 🔭 I’m currently working on **SPACE,Jobcy**
+- 🔭 I’m currently working on **Mailbox,Schedule**
 
-- 🌱 I’m currently learning **NestJs,RabbitMQ,TypeORM**
+- 🌱 I’m currently learning **NestJs,RabbitMQ,TypeORM,BullMQ**
 
-- 👯 I’m looking to collaborate on **SPACE**
+- 👯 I’m looking to collaborate on **SPACE,Schedule**
 
 - 🤝 I’m looking for help with **Microservices**
 
