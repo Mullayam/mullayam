@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mullayam-singh-921615264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mullayam-singh-921615264" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mullayam-singh-921615264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mullayam06" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mullayam06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mullayam06" height="30" width="40" /></a>
 <a href="https://discord.gg/mulayam06#4116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mulayam06#4116" height="30" width="40" /></a>
 </p>
@@ -38,7 +38,7 @@
   <a>
      <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mullayam&theme=github_dark&show_icons=true" />
   </a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mullayam&" alt="mullayam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mullayam&theme=github_dark&show_icons=true" alt="mullayam" /></p>
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
