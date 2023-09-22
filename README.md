@@ -1,3 +1,6 @@
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+</a>
 <h1 align="center">Hi 👋, I'm Mulayam</h1>
 <h3 align="center">Backend Devloper | Working With Models</h3>
 
@@ -32,5 +35,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mullayam&show_icons=true&locale=en&layout=compact" alt="mullayam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mullayam&show_icons=true&locale=en" alt="mullayam" /></p>
-
+  <a>
+     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4ymaneee&theme=github_dark&show_icons=true" />
+  </a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mullayam&" alt="mullayam" /></p>
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+</a>
