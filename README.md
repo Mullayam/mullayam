@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **SaveIT**
 
-- 🌱 I’m currently learning **React Native,Electron,RabbitMQ,,BullMQ**
+- 🌱 I’m currently learning **GoLang,Electron,Kafka,Pods,Kubernets**
 
-- 👯 I’m looking to collaborate on **SPACE,Schedule**
+- 👯 I’m looking to collaborate on **EMAIL SERVIC**
 
 - 🤝 I’m looking for help with **Microservices**
 
@@ -39,6 +39,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 **Front-End**
 
@@ -47,28 +48,36 @@
 
 **Learning**
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Go Lang](https://img.shields.io/badge/Go_LAng-20232A?style=for-the-badge&logo=go&logoColor=61DAFB)
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+![Docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=61DAFB)
+![Bun Js](https://img.shields.io/badge/bun_js-20232A?style=for-the-badge&logo=bun&logoColor=61DAFB)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
 **Back-End**
 
-![Nest](https://img.shields.io/badge/Nest.Js-red?style=for-the-badge&logo=express&logoColor=white)
+![Nest.Js](https://img.shields.io/badge/Nest.Js-red?style=for-the-badge&logo=express&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Prisma](https://img.shields.io/badge/prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white) 
 ![Postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Redis](https://img.shields.io/badge/redis-20232A?style=for-the-badge&logo=redis&logoColor=61DAFB)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-20232A?style=for-the-badge&logo=rabbitmq&logoColor=red)
 
 
 **Styling**
 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Shadcn Ui]https://img.shields.io/badge/shadcn-20232A?style=for-the-badge&logo=shadcnui&logoColor=red) 
 
 **Hosting & CI**
 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
+![cPanel](https://img.shields.io/badge/cpanel-20232A?style=for-the-badge&logo=cpanel&logoColor=red) 
 
 
   
