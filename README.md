@@ -70,7 +70,7 @@
 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Shadcn Ui]https://img.shields.io/badge/shadcn-20232A?style=for-the-badge&logo=shadcnui&logoColor=red) 
+![Shadcn Ui](https://img.shields.io/badge/shadcn-20232A?style=for-the-badge&logo=shadcnui&logoColor=red) 
 
 **Hosting & CI**
 
