@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **SaveIT**
 
-- 🌱 I’m currently learning **GoLang,Electron,Kafka,Pods,Kubernets**
+- 🌱 I’m currently learning **GoLang,Kafka,Pods,Kubernets,Sytem Desings**
 
-- 👯 I’m looking to collaborate on **EMAIL SERVIC**
+- 👯 I’m looking to collaborate on **EMAIL SERVICE, WEB TERMINAL, SSS**
 
-- 🤝 I’m looking for help with **Microservices**
+- 🤝 I’m looking for help with **Frontend**
 
 - 👨‍💻 All of my projects are available at [me.enjoys.in](https://me.enjoys.in)
 
