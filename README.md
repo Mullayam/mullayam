@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **Frontend**
 
-- 👨‍💻 All of my projects are available at [me.enjoys.in](https://me.enjoys.in)
+ 
 
 - 📫 How to reach me **mullayam06@outlook.com**
 
