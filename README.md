@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mullayam" alt="mullayam" /></a> </p>
 
-- 🔭 I’m currently working on **SaveIT**
+- 🔭 I’m currently working on **SaveIT, Terminus, ServerStackSuite**
 
-- 🌱 I’m currently learning **GoLang,Kafka,Pods,Kubernets,Sytem Desings**
+- 🌱 I’m currently learning **GoLang,Rust,Kafka,Pods,Kubernets,Sytem Desings**
 
-- 👯 I’m looking to collaborate on **EMAIL SERVICE, WEB TERMINAL, SSS**
+- 👯 I’m looking to collaborate on **ServerStackSuite**
 
 - 🤝 I’m looking for help with **Frontend**
 
@@ -52,6 +52,7 @@
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 ![Docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=61DAFB)
 ![Bun Js](https://img.shields.io/badge/bun_js-20232A?style=for-the-badge&logo=bun&logoColor=61DAFB)
+![Rust](https://img.shields.io/badge/rust-20232A?style=for-the-badge&logo=rust&logoColor=red)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
 **Back-End**
