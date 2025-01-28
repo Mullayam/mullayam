@@ -8,25 +8,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mullayam" alt="mullayam" /></a> </p>
 
-- 🔭 I’m currently working on **SaveIT, Terminus, ServerStackSuite**
+- 🔭 I’m currently working on **Terminus, ServerStackSuite**
 
-- 🌱 I’m currently learning **GoLang,Rust,Kafka,Pods,Kubernets,Sytem Desings**
+- 🌱 I’m currently learning **GoLang, Rust, Kafka, Pods, and Kubernetes**
 
-- 👯 I’m looking to collaborate on **ServerStackSuite**
-
-- 🤝 I’m looking for help with **Frontend**
-
- 
+- 👯 I’m looking to collaborate on **ServerStackSuite** 
 
 - 📫 How to reach me **mullayam06@outlook.com**
 
-- 📄 Know about my experiences [https://me.enjoys.in/MulayamResume.pdf](https://me.enjoys.in/MulayamResume.pdf)
+- 📄 Resume [https://me.enjoys.in/MulayamResume.pdf](https://me.enjoys.in/MulayamResume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mullayam06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mullayam06" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mullayam06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mullayam06" height="30" width="40" /></a>
-<a href="https://discord.gg/mulayam06#4116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mulayam06#4116" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
