@@ -2,7 +2,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
 <h1 align="center">Hi 👋, I'm Mullayam</h1>
-<h3 align="center">Backend Devloper | Working With Models</h3>
+<h3 align="center">Backend Developer | Working With Models</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mullayam&label=Profile%20views&color=0e75b6&style=flat" alt="mullayam" /> </p>
 
