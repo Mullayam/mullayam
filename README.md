@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mullayam06@outlook.com**
 
-- 📄 Resume [https://me.enjoys.in/MulayamResume.pdf](https://me.enjoys.in/MulayamResume.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
