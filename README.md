@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mullayam" alt="mullayam" /></a> </p>
 
-- 🔭 I’m currently working on **Terminus, ServerStackSuite**
+- 🔭 I’m currently working on **ServerStackSuite, IoT**
 
 - 🌱 I’m currently learning **GoLang, Rust, Kafka, Pods, and Kubernetes**
 
-- 👯 I’m looking to collaborate on **ServerStackSuite** 
+- 👯 I’m looking to collaborate on **Iot,NexusMail** 
 
 - 📫 How to reach me **mullayam06@outlook.com**
 
