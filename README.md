@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mullayam" alt="mullayam" /></a> </p>
 
-- 🔭 I’m currently working on **ServerStackSuite, IoT**
+- 🔭 I’m currently Building on **ServerStackSuite, <a href="https://nexus-mail.enjoys.in" target="_blank" rel="noreferrer"> NexusMail </a>**
 
 - 🌱 I’m currently learning **GoLang, Rust, Kafka, Pods, and Kubernetes**
 
-- 👯 I’m looking to collaborate on **Iot,NexusMail** 
+- 👯<a href="https://enjoys.in" target="_blank" rel="noreferrer"> enjoys.in </a>
 
-- 📫 How to reach me **mullayam06@outlook.com**
+- 📫 How to reach me **mullayam06@outlook.com **
 
 
 
