@@ -3,7 +3,7 @@
 </a>
 <h1 align="center">Hi 👋, I'm Mullayam</h1>
 <h3 align="center">Backend Developer | Working With Models</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mullayam&label=Profile%20views&color=0e75b6&style=flat" alt="mullayam" /> </p>
 - 🔭 I’m currently cooking **ServerStackSuite, <a href="https://nexus-mail.enjoys.in" target="_blank" rel="noreferrer"> NexusMail </a>**
 
 - 🌱 I’m currently learning **Rust, Kafka, Pods, and Kubernetes**
@@ -67,7 +67,7 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
 ![cPanel](https://img.shields.io/badge/cpanel-20232A?style=for-the-badge&logo=cpanel&logoColor=red) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mullayam&label=Profile%20views&color=0e75b6&style=flat" alt="mullayam" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mullayam" alt="mullayam" /></a> </p>
 
