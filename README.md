@@ -4,18 +4,11 @@
 <h1 align="center">Hi 👋, I'm Mullayam</h1>
 <h3 align="center">Backend Developer | Working With Models</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mullayam&label=Profile%20views&color=0e75b6&style=flat" alt="mullayam" /> </p>
+- 🔭 I’m currently cooking **ServerStackSuite, <a href="https://nexus-mail.enjoys.in" target="_blank" rel="noreferrer"> NexusMail </a>**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mullayam" alt="mullayam" /></a> </p>
+- 🌱 I’m currently learning **Rust, Kafka, Pods, and Kubernetes**
 
-- 🔭 I’m currently Building on **ServerStackSuite, <a href="https://nexus-mail.enjoys.in" target="_blank" rel="noreferrer"> NexusMail </a>**
-
-- 🌱 I’m currently learning **GoLang, Rust, Kafka, Pods, and Kubernetes**
-
-- 👯<a href="https://enjoys.in" target="_blank" rel="noreferrer"> enjoys.in </a>
-
-- 📫 How to reach me **mullayam06@outlook.com **
-
+- 📫 How to reach me **mullayam06@outlook.com**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -74,8 +67,9 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
 ![cPanel](https://img.shields.io/badge/cpanel-20232A?style=for-the-badge&logo=cpanel&logoColor=red) 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mullayam&label=Profile%20views&color=0e75b6&style=flat" alt="mullayam" /> </p>
 
-  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mullayam" alt="mullayam" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mullayam&show_icons=true&locale=en&theme=github_dark&layout=compact&show_icons=true" alt="mullayam" /></p>
 
