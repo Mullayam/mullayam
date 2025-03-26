@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Mullayam</h1>
 <h3 align="center">Backend Developer | Working With Models</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mullayam&label=Profile%20views&color=0e75b6&style=flat" alt="mullayam" /> </p>
-- 🔭 I’m currently cooking **ServerStackSuite, <a href="https://nexus-mail.enjoys.in" target="_blank" rel="noreferrer"> NexusMail </a>**
+- 🔭 I’m currently cooking **ServerStackSuite, <a href="https://airsend.in" target="_blank" rel="noreferrer"> AirSend-Mail Service </a>**
 
 - 🌱 I’m currently learning **Rust, Kafka, Pods, and Kubernetes**
 
